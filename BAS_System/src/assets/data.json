@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "firstName": "Tamir",
+      "lastName":"Bayarsaikhan",
+      "email": "t.bayarsaikhan@tue.nl",
+      "arrivedTime":"2024-01-01 10:30",
+        "delayedTime":"1:30",
+        "year":"2023"
+    },
+    {
+        "id": 2,
+        "firstName": "Amin",
+        "lastName":"Bakhshi",
+        "email": "a.bakhshi@tue.nl",
+        "arrivedTime":"2024-01-01 11:31",
+          "delayedTime":"2:31",
+          "year":"2023"
+      },
+      {
+        "id": 3,
+        "firstName": "example",
+        "lastName":"example",
+        "email": "example@tue.nl",
+        "arrivedTime":"2024-01-01 7:30",
+          "delayedTime":"0",
+          "year":"2023"
+      },
+      {
+        "id": 4,
+        "firstName": "example",
+        "lastName":"example",
+        "email": "example@tue.nl",
+        "arrivedTime":"2024-01-01 7:30",
+          "delayedTime":"0",
+          "year":"2023"
+      },
+      {
+        "id": 5,
+        "firstName": "example",
+        "lastName":"example",
+        "email": "example@tue.nl",
+        "arrivedTime":"2024-01-01 7:30",
+          "delayedTime":"0",
+          "year":"2023"
+      },
+      {
+        "id": 6,
+        "firstName": "example",
+        "lastName":"example",
+        "email": "example@tue.nl",
+        "arrivedTime":"2024-01-01 7:30",
+          "delayedTime":"0",
+          "year":"2023"
+      },
+      {
+        "id": 7,
+        "firstName": "example",
+        "lastName":"example",
+        "email": "example@tue.nl",
+        "arrivedTime":"2024-01-01 7:30",
+          "delayedTime":"0",
+          "year":"2023"
+      }
+  ]
