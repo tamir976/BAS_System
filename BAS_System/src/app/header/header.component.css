@@ -1,0 +1,13 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .logo{
+    width: 150px;
+  }
+  mat-toolbar{
+    background-color: rgb(206, 202, 202);
+  }
+  .header{
+    display: flex;
+    justify-content: space-between;
+  }
