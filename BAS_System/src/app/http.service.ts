@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable, inject } from '@angular/core';
-import { IEmployee } from './employee/interfaces/employee';
+import { EmployeeInterface } from './employee/interfaces/employee';
 
 @Injectable({
   providedIn: 'root'
@@ -11,6 +11,6 @@ export class HttpService {
   constructor() {  
   }
   getAll(){
-    return this.http.get<IEmployee[]>("/assets/data.json");
+    return this.http.get<EmployeeInterface[]>("/assets/data.json");
   }
 }

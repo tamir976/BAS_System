@@ -1,0 +1,35 @@
+.full-width {
+    width: 100%;
+  }
+  .register-employee{
+    width: 80%;
+  }
+  input{
+    height: 40px;
+    font-size: 14pt;
+  }
+  .icon{
+    width: 50px;
+    margin-right: 10px;
+  }
+  button{
+    border-radius: 10px;
+    font-size: 16px;
+    background-color: transparent;
+    padding: 10px;
+    transition-duration: 0.4s;
+    margin-right: 10px;
+    border-color: rgb(221, 246, 247)
+}
+button:hover{
+    background-color: #49beb7;
+    cursor: pointer;
+}
+button:focus{
+    background-color: rgb(144, 206, 206);
+}
+.scan{
+  display: flex;
+  justify-content: center;
+
+}

@@ -8,8 +8,8 @@ button{
         padding: 10px;
         transition-duration: 0.4s;
         margin-right: 10px;
+        border-color: rgb(221, 246, 247)
     }
-
 button:hover{
         background-color: #49beb7;
         cursor: pointer;
