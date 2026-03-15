@@ -2,3 +2,9 @@
 	path = sdk
 	url = https://github.com/raspberrypi/pico-sdk.git
 	branch = master
+[submodule "pico-examples"]
+	path = pico-examples
+	url = https://github.com/raspberrypi/pico-examples.git
+[submodule "FreeRTOS-Kernel"]
+	path = FreeRTOS-Kernel
+	url = https://github.com/raspberrypi/FreeRTOS-Kernel.git
