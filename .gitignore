@@ -1,2 +1,5 @@
 .vs
 ./pico-examples
+build/
+**/build/
+**/_deps/
